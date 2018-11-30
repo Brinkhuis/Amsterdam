@@ -8,6 +8,6 @@ Op basis van deze data zijn verschillende thematic maps gemaakt.
 
 Klik op de afbeelding voor het notebook met de interactieve versie.
 
-**Aantal parkeervakken per hecatare**
+**Aantal parkeervakken per wijk**
 
 [![](images/parkeervakken_buurtcombinatie.png)](https://nbviewer.jupyter.org/github/Brinkhuis/Amsterdam/blob/master/notebooks/parkeervakken.ipynb)
